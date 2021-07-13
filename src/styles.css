@@ -7752,3 +7752,15 @@ body {
     -webkit-animation-timing-function: linear;
     animation-timing-function: linear;
 }
+
+
+/*Texto*/
+
+.textoNeonAzul {
+    color: #FFFFFF;
+    margin-top: -700px;
+    margin-left: 5%;
+    font-size: 17px;
+    font-family: 'Otomanopee One', sans-serif;
+    text-shadow: 0 0 8px #2cd0f0, 0 0 2px #2cd0f0, 0 0 10px #2cd0f0, 0 0 6px #2cd0f0, 0 0 20px #2cd0f0, 0 0 20px #2cd0f0, 0 0 1px #2cd0f0, 0 0 12px #2cd0f0;
+}
